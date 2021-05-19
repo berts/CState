@@ -10,6 +10,6 @@ affected:
 section: issue
 ---
 
-*Update* - This incident has been resolved.
+*Update* - This incident has been resolved. by me
 
 *Investigating* - We're aware of an issue affecting sending DMs and viewing online friends. We're online and working on a resolution.
